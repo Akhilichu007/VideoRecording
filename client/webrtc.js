@@ -1,4 +1,5 @@
 var localVideo;
+
 var localStream;
 var myName;
 var remoteVideo;
